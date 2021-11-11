@@ -56,3 +56,7 @@ h1, p {
     padding: 12px;
     color:#fff;
 }
+ul {
+    color: red;
+    padding: 10px;
+}
